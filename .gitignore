@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+*.iml
+
+*/out/
+*.gitkeep
+*/target/
+API.pdf
+db-20200401.pdf
+frontend-dist_2020-09-01.zip
